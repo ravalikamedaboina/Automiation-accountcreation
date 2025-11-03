@@ -1,0 +1,29 @@
+{
+  "name": "excel-api-automation",
+  "version": "1.0.0",
+  "description": "Node.js application that reads Excel files and makes token and enrollment API calls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "excel",
+    "api",
+    "automation",
+    "token",
+    "enrollment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "xlsx": "^0.18.5",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

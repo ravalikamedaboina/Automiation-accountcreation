@@ -1,0 +1,4 @@
+Row,FirstName,LastName,Email,Enrollment_Status,MP_Number,Net_Status,Net_Value,EQM_Status,EQM_Value,Segments_Status,Segments_Value,MillionMiles_Status,MillionMiles_Value,Tier_Status,Tier_Value,Tier_Level,Errors
+"1","ALEXANDRO","RODRIGUEZ","alexandro.rodriguez.17621876407029287A@alaskatest.com","SUCCESS","457853653","SUCCESS","1500","SUCCESS","750","SUCCESS","8","SUCCESS","0.75","SUCCESS","MVP","Atmos Silver",""
+"2","SOPHIA","CHEN","sophia.chen.17621876407029287B@alaskatest.com","SUCCESS","465350384","SUCCESS","2500","SUCCESS","1250","SUCCESS","12","SUCCESS","1.25","SUCCESS","MVP_GOLD","Atmos Gold",""
+"3","MARCUS","THOMPSON","marcus.thompson.17621876407029287C@alaskatest.com","SUCCESS","972997524","SUCCESS","3500","SUCCESS","1750","SUCCESS","16","SUCCESS","1.75","SUCCESS","MVP_GOLD_75K","Atmos Platinum",""

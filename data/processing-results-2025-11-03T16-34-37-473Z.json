@@ -1,0 +1,127 @@
+{
+  "reportTitle": "Alaska Airlines Processing Results",
+  "generatedOn": "November 3, 2025 at 08:34 AM",
+  "totalRows": 3,
+  "results": [
+    {
+      "row": 1,
+      "firstName": "ALEXANDRO",
+      "lastName": "RODRIGUEZ",
+      "email": "alexandro.rodriguez.17621876407029287A@alaskatest.com",
+      "enrollment": {
+        "status": "SUCCESS",
+        "mileagePlanNumber": "457853653",
+        "error": null
+      },
+      "accruals": {
+        "Net": {
+          "value": 1500,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "EQM": {
+          "value": 750,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "Segments": {
+          "value": 8,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "MillionMiles": {
+          "value": 0.75,
+          "status": "SUCCESS",
+          "error": null
+        }
+      },
+      "tier": {
+        "value": "MVP",
+        "activeFrom": "2024-11-01",
+        "status": "SUCCESS",
+        "error": null,
+        "tierLevel": "Atmos Silver"
+      }
+    },
+    {
+      "row": 2,
+      "firstName": "SOPHIA",
+      "lastName": "CHEN",
+      "email": "sophia.chen.17621876407029287B@alaskatest.com",
+      "enrollment": {
+        "status": "SUCCESS",
+        "mileagePlanNumber": "465350384",
+        "error": null
+      },
+      "accruals": {
+        "Net": {
+          "value": 2500,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "EQM": {
+          "value": 1250,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "Segments": {
+          "value": 12,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "MillionMiles": {
+          "value": 1.25,
+          "status": "SUCCESS",
+          "error": null
+        }
+      },
+      "tier": {
+        "value": "MVP_GOLD",
+        "activeFrom": "2024-12-01",
+        "status": "SUCCESS",
+        "error": null,
+        "tierLevel": "Atmos Gold"
+      }
+    },
+    {
+      "row": 3,
+      "firstName": "MARCUS",
+      "lastName": "THOMPSON",
+      "email": "marcus.thompson.17621876407029287C@alaskatest.com",
+      "enrollment": {
+        "status": "SUCCESS",
+        "mileagePlanNumber": "972997524",
+        "error": null
+      },
+      "accruals": {
+        "Net": {
+          "value": 3500,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "EQM": {
+          "value": 1750,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "Segments": {
+          "value": 16,
+          "status": "SUCCESS",
+          "error": null
+        },
+        "MillionMiles": {
+          "value": 1.75,
+          "status": "SUCCESS",
+          "error": null
+        }
+      },
+      "tier": {
+        "value": "MVP_GOLD_75K",
+        "activeFrom": "2025-01-01",
+        "status": "SUCCESS",
+        "error": null,
+        "tierLevel": "Atmos Platinum"
+      }
+    }
+  ]
+}
