@@ -5,10 +5,10 @@ require('dotenv').config();
 class ExcelAPIProcessor {
     constructor() {
         // API configuration - set these in your .env file
-        this.tokenApiUrl = process.env.TOKEN_API_URL || 'https://www.auth-qa.alaskaair.com/oauth2/default/v1/token';
-        this.enrollmentApiUrl = process.env.ENROLLMENT_API_URL || 'https://apis.qa.alaskaair.com/enrollment/api/join-mileage-plan';
-        this.accrualApiUrl = process.env.ACCRUAL_API_URL || 'https://apis.qa.alaskaair.com/mileageplan/api/accruals';
-        this.tierApiUrl = process.env.TIER_API_URL || 'https://apis.qa.alaskaair.com/mileageplan/api/tier';
+        this.tokenApiUrl = process.env.TOKEN_API_URL || 'fault/v1/token';
+        this.enrollmentApiUrl = process.env.ENROLLMENT_API_URL || '/api/join-mileage-plan';
+        this.accrualApiUrl = process.env.ACCRUAL_API_URL || 'mileageplan/api/accruals';
+        this.tierApiUrl = process.env.TIER_API_URL || 'mileageplan/api/tier';
         this.basicAuthToken = process.env.BASIC_AUTH_TOKEN || '';
         this.subscriptionKey = process.env.OCP_APIM_SUBSCRIPTION_KEY || '';
         this.lmsOverride = process.env.LMS_OVERRIDE || 'LPS';
