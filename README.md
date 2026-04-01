@@ -1,4 +1,4 @@
-# Alaska Airlines Mileage Plan Automation
+# Plan Automation
 
 A comprehensive Node.js application that automates Alaska Airlines Mileage Plan enrollment, accruals, and tier updates by reading data from Excel files.
 
