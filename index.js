@@ -15,10 +15,10 @@ class ExcelAPIProcessor {
         
         // Accrual codes
         this.accrualCodes = {
-            eqm: process.env.ACCRUAL_CODE_EQM || 'SSHA5',
-            net: process.env.ACCRUAL_CODE_NET || 'SSHAN',
-            millionMiles: process.env.ACCRUAL_CODE_MILLION_MILES || 'SSHAL',
-            segments: process.env.ACCRUAL_CODE_SEGMENTS || 'SSHAS'
+            eqm: process.env.ACCRUAL_CODE_EQM || 'ACCCC',
+            net: process.env.ACCRUAL_CODE_NET || 'ACCCCE',
+            millionMiles: process.env.ACCRUAL_CODE_MILLION_MILES || 'BCCCC',
+            segments: process.env.ACCRUAL_CODE_SEGMENTS || 'BCCCE'
         };
         
         // Error mitigation configuration
